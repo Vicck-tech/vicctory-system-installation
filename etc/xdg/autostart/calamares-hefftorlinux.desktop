@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Install HefftorLinux
+Comment=Installer for HefftorLinux
+Categories=Utility;
+Exec=pkexec calamares
+Icon=hefftor-calamares
